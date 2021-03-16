@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aktywności i intencje</string>
+
+    <string name="uruchom_druga">Uruchom Drugą Aktywność</string>
+    <string name="uruchom_trzecia">Uruchom Trzecią Aktywność</string>
+    <string name="info_odczytana">Odczytana wiadomość</string>
+    <string name="info_przekaz">Przekaż wiadomość</string>
+    <string name="wroc_do_glownej">Wróć do piewszej aktywności</string>
+    <string name="otworz_stron_www">Otwórz stronę kursu ISM</string>
+    <string name="zadzwo">Zadzwoń do Prezydenta</string>
+    <string name="zrob_zdjecie">Zrób zdjęcie</string>
+    <string name="menu_czynnosci">Wybór czynności</string>
+</resources>
